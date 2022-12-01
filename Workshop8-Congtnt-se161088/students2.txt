@@ -1,0 +1,4 @@
+Binh Nguyen;10.00
+An Le;7.00
+Binh Tran;5.20
+Cuc Phan;7.00
